@@ -1,4 +1,4 @@
-module github.com/non1996/gobatis
+module github.com/non1996/go-batis
 
 go 1.21
 
