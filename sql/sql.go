@@ -7,7 +7,7 @@ import (
 	"github.com/non1996/go-jsonobj/container"
 	"github.com/non1996/go-jsonobj/stream"
 
-	"github.com/non1996/gobatis/errors"
+	"github.com/non1996/go-batis/errors"
 )
 
 // Elem sql元素，比如简单的sql片段、动态sql标签、sql引用等

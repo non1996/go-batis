@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"text/template"
 
-	"github.com/non1996/gobatis/errors"
+	"github.com/non1996/go-batis/errors"
 )
 
 type Condition interface {

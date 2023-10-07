@@ -1,7 +1,7 @@
 package sql
 
 import (
-	"github.com/non1996/gobatis/errors"
+	"github.com/non1996/go-batis/errors"
 )
 
 var (
